@@ -70,7 +70,7 @@
         android:layout_height="73dp"
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
-        android:text="Deskripsi Singkat: Mahasiswa Teknik Informatika Udinus yang selalu overthinking mengenai tugas tiap malam tetapi tugasnya alhamdulillah bisa selesai semua."
+        android:text="Deskripsi Singkat: Saya Hanin Firginita Gilty dengan NIM A11.2019.11965 dari jurusan Teknik Informatika Universitas Dian Nuswantoro yang memiliki hobi mendengarkan musik."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.142"
